@@ -11,6 +11,9 @@ header {
     text-align: center;
 }
 
+header h1{
+    color : mintcream
+}
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -22,6 +25,11 @@ nav ul li {
 }
 
 nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul h3 a {
     color: white;
     text-decoration: none;
 }
@@ -39,4 +47,8 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+}
+section p {
+    
+    
 }
